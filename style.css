@@ -59,7 +59,7 @@ button {
 .left-pane {
     width: var(--leftpane);
     position: relative;
-    background: url("/images/image.png") center/cover no-repeat;
+    background: url("./images/image.png") center/cover no-repeat;
     color: white;
 }
 
